@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "gameId": 1,
+    "user": "DragonSlayer42",
+    "hours": 312,
+    "recommended": true,
+    "text": "Un chef-d'œuvre absolu. Le monde ouvert est gigantesque et chaque recoin cache un secret. Les boss sont difficiles mais tellement satisfaisants à battre.",
+    "date": "2026-01-12",
+    "helpful": 47
+  },
+  {
+    "id": 2,
+    "gameId": 1,
+    "user": "CasualGamer_Fr",
+    "hours": 85,
+    "recommended": true,
+    "text": "Mon premier Souls-like et je suis accro. La difficulté est bien dosée grâce au monde ouvert qui permet de revenir plus tard.",
+    "date": "2026-01-08",
+    "helpful": 23
+  },
+  {
+    "id": 3,
+    "gameId": 1,
+    "user": "x_NightBlade",
+    "hours": 520,
+    "recommended": true,
+    "text": "NG+7 terminé. Ce jeu est infini. Le PvP est fun et le build crafting est incroyable. FromSoftware au sommet de son art.",
+    "date": "2026-01-03",
+    "helpful": 15
+  },
+  {
+    "id": 4,
+    "gameId": 1,
+    "user": "RetroFan99",
+    "hours": 12,
+    "recommended": false,
+    "text": "Trop difficile pour moi, pas de mode facile. Les graphismes sont beaux mais je rage trop pour apprécier le jeu.",
+    "date": "2025-12-28",
+    "helpful": 8
+  },
+  {
+    "id": 5,
+    "gameId": 2,
+    "user": "NeonRunner",
+    "hours": 180,
+    "recommended": true,
+    "text": "Après les patchs et Phantom Liberty, c'est devenu un jeu incroyable. Night City est la plus belle ville du jeu vidéo.",
+    "date": "2026-01-10",
+    "helpful": 31
+  },
+  {
+    "id": 6,
+    "gameId": 2,
+    "user": "TechEnthusiast",
+    "hours": 95,
+    "recommended": true,
+    "text": "L'histoire de V est prenante. Les quêtes secondaires sont aussi bonnes que le scénario principal. Phantom Liberty est un must.",
+    "date": "2026-01-05",
+    "helpful": 18
+  },
+  {
+    "id": 7,
+    "gameId": 2,
+    "user": "PCMaster_",
+    "hours": 25,
+    "recommended": false,
+    "text": "Encore des bugs en 2026... Mon personnage T-pose pendant les cinématiques. Dommage car le monde est magnifique.",
+    "date": "2026-01-01",
+    "helpful": 12
+  },
+  {
+    "id": 8,
+    "gameId": 3,
+    "user": "HyruleKnight",
+    "hours": 245,
+    "recommended": true,
+    "text": "Le système d'Emprise est génial. J'ai passé 100h juste à construire des trucs absurdes. Nintendo a repoussé les limites du possible.",
+    "date": "2026-01-11",
+    "helpful": 52
+  },
+  {
+    "id": 9,
+    "gameId": 3,
+    "user": "ZeldaForever",
+    "hours": 190,
+    "recommended": true,
+    "text": "Meilleur jeu de tous les temps. Chaque sanctuaire est un puzzle brillant. L'exploration récompense toujours la curiosité.",
+    "date": "2026-01-09",
+    "helpful": 38
+  },
+  {
+    "id": 10,
+    "gameId": 3,
+    "user": "SwitchCasual",
+    "hours": 60,
+    "recommended": true,
+    "text": "Même en jouant casually, le jeu est incroyable. Les pouvoirs sont intuitifs et les possibilités sont infinies.",
+    "date": "2025-12-20",
+    "helpful": 14
+  },
+  {
+    "id": 11,
+    "gameId": 4,
+    "user": "MythologyBuff",
+    "hours": 42,
+    "recommended": true,
+    "text": "L'histoire entre Kratos et Atreus est magnifique. Les combats sont brutaux et jouissifs. Un voyage émotionnel du début à la fin.",
+    "date": "2026-01-07",
+    "helpful": 28
+  },
+  {
+    "id": 12,
+    "gameId": 4,
+    "user": "ActionFan_",
+    "hours": 38,
+    "recommended": true,
+    "text": "Les boss fights sont spectaculaires. Thor et Odin sont des antagonistes mémorables. Le combat à la hache n'a jamais été aussi bon.",
+    "date": "2026-01-04",
+    "helpful": 19
+  },
+  {
+    "id": 13,
+    "gameId": 4,
+    "user": "SpeedRunner_FR",
+    "hours": 15,
+    "recommended": true,
+    "text": "Même en speedrun, le jeu reste plaisant. Les animations sont fluides et les enchaînements de combos sont satisfaisants.",
+    "date": "2025-12-22",
+    "helpful": 7
+  },
+  {
+    "id": 14,
+    "gameId": 5,
+    "user": "DnDMaster",
+    "hours": 450,
+    "recommended": true,
+    "text": "Le meilleur RPG jamais créé. 3 runs et je découvre encore de nouveaux dialogues. Larian a réussi l'impossible avec cette adaptation de D&D.",
+    "date": "2026-01-12",
+    "helpful": 67
+  },
+  {
+    "id": 15,
+    "gameId": 5,
+    "user": "CoopLover",
+    "hours": 200,
+    "recommended": true,
+    "text": "En co-op à 4, c'est le chaos total. On a ri pendant 200 heures. Les choix ont de vraies conséquences, chaque partie est unique.",
+    "date": "2026-01-06",
+    "helpful": 41
+  },
+  {
+    "id": 16,
+    "gameId": 5,
+    "user": "MinMaxer",
+    "hours": 380,
+    "recommended": true,
+    "text": "Le théorycrafting est infini. Chaque classe joue différemment. L'Acte 3 est un peu en dessous mais le reste est parfait.",
+    "date": "2026-01-02",
+    "helpful": 25
+  },
+  {
+    "id": 17,
+    "gameId": 5,
+    "user": "StoryFirst",
+    "hours": 120,
+    "recommended": true,
+    "text": "Les compagnons sont incroyablement bien écrits. Shadowheart, Karlach, Astarion... chaque personnage a une profondeur rare dans le JV.",
+    "date": "2025-12-18",
+    "helpful": 33
+  },
+  {
+    "id": 18,
+    "gameId": 6,
+    "user": "SpaceExplorer",
+    "hours": 120,
+    "recommended": true,
+    "text": "Un bon jeu d'exploration spatiale. La construction de vaisseau est top. Les planètes vides restent un problème mais l'ambiance est unique.",
+    "date": "2026-01-08",
+    "helpful": 14
+  },
+  {
+    "id": 19,
+    "gameId": 6,
+    "user": "BethesdaVet",
+    "hours": 60,
+    "recommended": false,
+    "text": "Pas au niveau de Skyrim ou Fallout. Les chargements cassent l'immersion et l'exploration est trop répétitive après 40h.",
+    "date": "2026-01-03",
+    "helpful": 22
+  },
+  {
+    "id": 20,
+    "gameId": 6,
+    "user": "ModdingKing",
+    "hours": 200,
+    "recommended": true,
+    "text": "Avec les mods, le jeu prend une autre dimension. La communauté modding corrige les défauts et ajoute du contenu de qualité.",
+    "date": "2025-12-15",
+    "helpful": 11
+  },
+  {
+    "id": 21,
+    "gameId": 7,
+    "user": "WebSlinger",
+    "hours": 35,
+    "recommended": true,
+    "text": "Le meilleur jeu Spider-Man. Alterner entre Peter et Miles c'est génial, et Venom est terrifiant. Le traversal n'a jamais été aussi fluide.",
+    "date": "2026-01-10",
+    "helpful": 20
+  },
+  {
+    "id": 22,
+    "gameId": 7,
+    "user": "MarvelFanatic",
+    "hours": 28,
+    "recommended": true,
+    "text": "L'histoire est digne d'un film Marvel. Les boss fights contre Kraven et Venom sont mémorables. Vivement le 3.",
+    "date": "2026-01-02",
+    "helpful": 16
+  },
+  {
+    "id": 23,
+    "gameId": 8,
+    "user": "HollowFan",
+    "hours": 55,
+    "recommended": true,
+    "text": "L'attente valait le coup. Hornet est plus rapide et acrobatique que le Chevalier. Level design de génie, comme toujours chez Team Cherry.",
+    "date": "2026-01-11",
+    "helpful": 35
+  },
+  {
+    "id": 24,
+    "gameId": 8,
+    "user": "MetroidvaniaLover",
+    "hours": 40,
+    "recommended": true,
+    "text": "Chaque zone est magnifique. Les boss sont durs mais justes. La musique de Christopher Larkin est sublime et porte toute l'ambiance.",
+    "date": "2026-01-07",
+    "helpful": 22
+  },
+  {
+    "id": 25,
+    "gameId": 8,
+    "user": "IndieDev_",
+    "hours": 30,
+    "recommended": true,
+    "text": "Team Cherry prouve qu'un petit studio peut rivaliser avec les AAA. Le polish est incroyable pour un jeu indé. Bravo.",
+    "date": "2025-12-30",
+    "helpful": 18
+  },
+  {
+    "id": 26,
+    "gameId": 9,
+    "user": "FFVeteran",
+    "hours": 65,
+    "recommended": true,
+    "text": "Un FF plus mature et sombre. Les combats de Primordiaux sont épiques à couper le souffle. L'histoire de Clive est touchante.",
+    "date": "2026-01-09",
+    "helpful": 19
+  },
+  {
+    "id": 27,
+    "gameId": 9,
+    "user": "JRPGFan",
+    "hours": 50,
+    "recommended": false,
+    "text": "Trop orienté action, pas assez RPG. On perd l'essence de Final Fantasy. Les quêtes annexes sont ennuyeuses et répétitives.",
+    "date": "2026-01-04",
+    "helpful": 16
+  },
+  {
+    "id": 28,
+    "gameId": 9,
+    "user": "EikonSlayer",
+    "hours": 75,
+    "recommended": true,
+    "text": "Les combats entre Primordiaux sont les moments les plus spectaculaires que j'ai vus dans un jeu. Le DLC ajoute du contenu de qualité.",
+    "date": "2025-12-25",
+    "helpful": 10
+  },
+  {
+    "id": 29,
+    "gameId": 10,
+    "user": "SamusFan",
+    "hours": 18,
+    "recommended": true,
+    "text": "Les E.M.M.I. sont terrifiants. Le contre-attaque est ultra satisfaisant quand on le réussit. Samus n'a jamais été aussi badass.",
+    "date": "2026-01-06",
+    "helpful": 13
+  },
+  {
+    "id": 30,
+    "gameId": 10,
+    "user": "RetroGamer2000",
+    "hours": 14,
+    "recommended": true,
+    "text": "Enfin un vrai Metroid 2D après tant d'années. Le level design est brillant et la progression est addictive. Court mais intense.",
+    "date": "2025-12-20",
+    "helpful": 9
+  },
+  {
+    "id": 31,
+    "gameId": 11,
+    "user": "RogueAddict",
+    "hours": 140,
+    "recommended": true,
+    "text": "Melinoë est une super héroïne. Le système de magie ajoute une profondeur énorme au gameplay. Supergiant ne déçoit jamais.",
+    "date": "2026-01-10",
+    "helpful": 29
+  },
+  {
+    "id": 32,
+    "gameId": 11,
+    "user": "SupergiantFan",
+    "hours": 95,
+    "recommended": true,
+    "text": "Encore meilleur que le premier. La narration est toujours aussi brillante et les dialogues sont excellents. Chaque run raconte une histoire.",
+    "date": "2026-01-05",
+    "helpful": 24
+  },
+  {
+    "id": 33,
+    "gameId": 11,
+    "user": "SpeedKillz",
+    "hours": 60,
+    "recommended": true,
+    "text": "Le gameplay est plus varié que Hades 1 grâce à la magie. Les nouveaux biomes sont magnifiques. Mon GOTY 2024.",
+    "date": "2025-12-28",
+    "helpful": 15
+  },
+  {
+    "id": 34,
+    "gameId": 12,
+    "user": "SpeedDemon",
+    "hours": 250,
+    "recommended": true,
+    "text": "Le plus beau jeu de course jamais créé. Le Mexique est magnifique à chaque saison. Le mode EventLab offre des possibilités infinies.",
+    "date": "2026-01-08",
+    "helpful": 17
+  },
+  {
+    "id": 35,
+    "gameId": 12,
+    "user": "CarCollector",
+    "hours": 180,
+    "recommended": true,
+    "text": "700+ voitures, chacune avec sa personnalité. Le son des moteurs est parfait. Le online est un peu chaotique mais fun.",
+    "date": "2026-01-03",
+    "helpful": 12
+  },
+  {
+    "id": 36,
+    "gameId": 12,
+    "user": "SimRacer_Pro",
+    "hours": 30,
+    "recommended": false,
+    "text": "Trop arcade pour moi. Si vous cherchez du réalisme, passez votre chemin. Mais visuellement c'est le plus beau jeu de course du marché.",
+    "date": "2025-12-19",
+    "helpful": 8
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "title": "Elden Ring",
+    "slug": "elden-ring",
+    "platform": ["PC", "PS5", "Xbox"],
+    "genre": "Action RPG",
+    "year": 2022,
+    "dev": "FromSoftware",
+    "publisher": "Bandai Namco",
+    "players": "Solo / Co-op",
+    "image": "/images/elden-ring.jpg",
+    "thumb": "/images/elden-ring-thumb.jpg",
+    "description": "Plongez dans un monde ouvert dark fantasy colossal, co-créé par Hidetaka Miyazaki et George R.R. Martin. Explorez les Terres Intermédiaires, affrontez des boss légendaires et forgez votre propre destinée dans cette aventure épique qui redéfinit le genre Action RPG.",
+    "features": [
+      "Monde ouvert immense",
+      "Combat exigeant et gratifiant",
+      "Multijoueur coopératif",
+      "Création de personnage approfondie",
+      "Plus de 100 heures de contenu"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cyberpunk 2077",
+    "slug": "cyberpunk-2077",
+    "platform": ["PC", "PS5", "Xbox"],
+    "genre": "RPG",
+    "year": 2020,
+    "dev": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "players": "Solo",
+    "image": "/images/cyberpunk-2077.jpg",
+    "thumb": "/images/cyberpunk-2077-thumb.jpg",
+    "description": "Night City vous attend. Incarnez V, un mercenaire hors-la-loi à la recherche d'un implant unique qui confère l'immortalité. Personnalisez votre cyberware, vos compétences et votre style de jeu dans cette aventure RPG en monde ouvert.",
+    "features": [
+      "Monde ouvert futuriste",
+      "Narration non-linéaire",
+      "Personnalisation complète",
+      "Arbre de compétences profond",
+      "Extension Phantom Liberty"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "slug": "zelda-totk",
+    "platform": ["Switch"],
+    "genre": "Action-Aventure",
+    "year": 2023,
+    "dev": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "players": "Solo",
+    "image": "/images/zelda-totk.jpg",
+    "thumb": "/images/zelda-totk-thumb.jpg",
+    "description": "L'aventure épique de Link continue dans cette suite magistrale de Breath of the Wild. Explorez les cieux d'Hyrule, maîtrisez de nouveaux pouvoirs comme l'Emprise et l'Amalgame, et découvrez les secrets enfouis sous le royaume.",
+    "features": [
+      "Système Emprise révolutionnaire",
+      "Exploration verticale",
+      "Construction libre",
+      "Donjons et sanctuaires",
+      "Physique réaliste"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "God of War Ragnarök",
+    "slug": "god-of-war-ragnarok",
+    "platform": ["PC", "PS5"],
+    "genre": "Action",
+    "year": 2022,
+    "dev": "Santa Monica Studio",
+    "publisher": "Sony Interactive",
+    "players": "Solo",
+    "image": "/images/god-of-war-ragnarok.jpg",
+    "thumb": "/images/god-of-war-ragnarok-thumb.jpg",
+    "description": "Kratos et Atreus doivent voyager dans chacun des Neuf Royaumes à la recherche de réponses alors que les forces asgardiennes se préparent à une bataille prophétisée qui mettra fin au monde.",
+    "features": [
+      "Combat viscéral à la hache",
+      "9 royaumes à explorer",
+      "Narration père-fils",
+      "Boss fights épiques",
+      "Système d'armure et runas"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Baldur's Gate 3",
+    "slug": "baldurs-gate-3",
+    "platform": ["PC", "PS5", "Xbox"],
+    "genre": "RPG",
+    "year": 2023,
+    "dev": "Larian Studios",
+    "publisher": "Larian Studios",
+    "players": "Solo / Co-op 4",
+    "image": "/images/baldurs-gate-3.jpg",
+    "thumb": "/images/baldurs-gate-3-thumb.jpg",
+    "description": "Le RPG ultime basé sur les règles de Donjons & Dragons 5e édition. Rassemblez votre groupe, lancez les dés et plongez dans une aventure épique où chaque choix a des conséquences profondes.",
+    "features": [
+      "Système D&D 5e complet",
+      "Co-op jusqu'à 4 joueurs",
+      "Choix moraux impactants",
+      "Plus de 174 heures de cinématiques",
+      "12 classes jouables"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Starfield",
+    "slug": "starfield",
+    "platform": ["PC", "Xbox"],
+    "genre": "RPG",
+    "year": 2023,
+    "dev": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "players": "Solo",
+    "image": "/images/starfield.jpg",
+    "thumb": "/images/starfield-thumb.jpg",
+    "description": "Explorez la galaxie dans le premier nouvel univers de Bethesda depuis 25 ans. Avec plus de 1000 planètes à découvrir, construisez votre vaisseau, rejoignez des factions et écrivez votre propre histoire spatiale.",
+    "features": [
+      "1000+ planètes",
+      "Construction de vaisseau",
+      "Système de factions",
+      "Exploration spatiale",
+      "Modding supporté"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Spider-Man 2",
+    "slug": "spider-man-2",
+    "platform": ["PS5"],
+    "genre": "Action",
+    "year": 2023,
+    "dev": "Insomniac Games",
+    "publisher": "Sony Interactive",
+    "players": "Solo",
+    "image": "/images/spider-man-2.jpg",
+    "thumb": "/images/spider-man-2-thumb.jpg",
+    "description": "Peter Parker et Miles Morales unissent leurs forces pour protéger New York contre des menaces nouvelles et redoutables, dont Venom et Kraven le Chasseur.",
+    "features": [
+      "Deux Spider-Men jouables",
+      "New York en monde ouvert",
+      "Symbiote Venom",
+      "Combat aérien amélioré",
+      "Web Wings pour planer"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Hollow Knight: Silksong",
+    "slug": "hollow-knight-silksong",
+    "platform": ["PC", "Switch"],
+    "genre": "Metroidvania",
+    "year": 2025,
+    "dev": "Team Cherry",
+    "publisher": "Team Cherry",
+    "players": "Solo",
+    "image": "/images/hollow-knight-silksong.jpg",
+    "thumb": "/images/hollow-knight-silksong-thumb.jpg",
+    "description": "Incarnez Hornet dans un tout nouveau royaume hanté par la soie et les chants. Découvrez de nouvelles mécaniques de combat acrobatiques dans cette suite très attendue du célèbre Hollow Knight.",
+    "features": [
+      "Nouveau personnage Hornet",
+      "150+ ennemis",
+      "Mouvement acrobatique",
+      "Monde interconnecté",
+      "Boss fights intenses"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Final Fantasy XVI",
+    "slug": "final-fantasy-xvi",
+    "platform": ["PC", "PS5"],
+    "genre": "Action RPG",
+    "year": 2023,
+    "dev": "Square Enix CBU III",
+    "publisher": "Square Enix",
+    "players": "Solo",
+    "image": "/images/final-fantasy-xvi.jpg",
+    "thumb": "/images/final-fantasy-xvi-thumb.jpg",
+    "description": "Clive Rosfield se bat pour la liberté dans un monde dominé par les Cristaux-mères et les Primordiaux. Un Final Fantasy mature, sombre et résolument orienté action.",
+    "features": [
+      "Combat action en temps réel",
+      "Invocations Primordiaux",
+      "Histoire mature et sombre",
+      "Monde Valisthéa",
+      "DLC Rising Tide"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Metroid Dread",
+    "slug": "metroid-dread",
+    "platform": ["Switch"],
+    "genre": "Metroidvania",
+    "year": 2021,
+    "dev": "MercurySteam",
+    "publisher": "Nintendo",
+    "players": "Solo",
+    "image": "/images/metroid-dread.jpg",
+    "thumb": "/images/metroid-dread-thumb.jpg",
+    "description": "Samus Aran est traquée par les robots E.M.M.I. sur la planète ZDR. Explorez, combattez et survivez dans ce Metroid 2D qui conclut l'arc narratif débuté il y a 35 ans.",
+    "features": [
+      "Robots E.M.M.I. terrifiants",
+      "Contre-attaques précises",
+      "Capacités Aeion",
+      "Exploration non-linéaire",
+      "Boss fights mémorables"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Hades II",
+    "slug": "hades-2",
+    "platform": ["PC"],
+    "genre": "Roguelike",
+    "year": 2024,
+    "dev": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "players": "Solo",
+    "image": "/images/hades-2.jpg",
+    "thumb": "/images/hades-2-thumb.jpg",
+    "description": "Incarnez Melinoë, princesse des Enfers, et combattez les forces du Titan Chronos dans ce roguelike divin. Nouvelle magie, nouveaux alliés olympiens et mécaniques de jeu inédites.",
+    "features": [
+      "Nouvelle héroïne Melinoë",
+      "Système de magie",
+      "Biomes variés",
+      "Narration évolutive",
+      "Armes et aspects multiples"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Forza Horizon 5",
+    "slug": "forza-horizon-5",
+    "platform": ["PC", "Xbox"],
+    "genre": "Course",
+    "year": 2021,
+    "dev": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "players": "Solo / Multi",
+    "image": "/images/forza-horizon-5.jpg",
+    "thumb": "/images/forza-horizon-5-thumb.jpg",
+    "description": "La course en monde ouvert la plus belle du monde se déroule au Mexique. Plus de 700 voitures, un monde vivant avec des saisons dynamiques, et une liberté de jeu totale.",
+    "features": [
+      "Monde ouvert Mexique",
+      "700+ voitures",
+      "Saisons dynamiques",
+      "EventLab créatif",
+      "Cross-play PC/Xbox"
+    ]
+  }
+]
