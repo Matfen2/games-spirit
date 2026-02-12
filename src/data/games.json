@@ -135,7 +135,7 @@
     "dev": "Insomniac Games",
     "publisher": "Sony Interactive",
     "players": "Solo",
-    "image": "/images/spider-man-2.jpg",
+    "image": "/images/marvel-spiderman-2.jpg",
     "thumb": "/images/spider-man-2-thumb.jpg",
     "description": "Peter Parker et Miles Morales unissent leurs forces pour protéger New York contre des menaces nouvelles et redoutables, dont Venom et Kraven le Chasseur.",
     "features": [
@@ -169,23 +169,23 @@
   },
   {
     "id": 9,
-    "title": "Final Fantasy XVI",
-    "slug": "final-fantasy-xvi",
+    "title": "Final Fantasy VII Rebirth",
+    "slug": "final-fantasy-7-rebirth",
     "platform": ["PC", "PS5"],
     "genre": "Action RPG",
-    "year": 2023,
-    "dev": "Square Enix CBU III",
+    "year": 2024,
+    "dev": "Square Enix",
     "publisher": "Square Enix",
     "players": "Solo",
-    "image": "/images/final-fantasy-xvi.jpg",
-    "thumb": "/images/final-fantasy-xvi-thumb.jpg",
-    "description": "Clive Rosfield se bat pour la liberté dans un monde dominé par les Cristaux-mères et les Primordiaux. Un Final Fantasy mature, sombre et résolument orienté action.",
+    "image": "/images/final-fantasy-7-rebirth.jpg",
+    "thumb": "/images/final-fantasy-7-rebirth-thumb.jpg",
+    "description": "Cloud et ses compagnons quittent Midgar pour un voyage épique à travers un monde ouvert. Ce deuxième volet de la trilogie remake repousse les limites avec un système de combat hybride, des Synergy Abilities et une histoire qui bouleverse les fans.",
     "features": [
-      "Combat action en temps réel",
-      "Invocations Primordiaux",
-      "Histoire mature et sombre",
-      "Monde Valisthéa",
-      "DLC Rising Tide"
+      "Monde ouvert explorable",
+      "Combat hybride action/ATB",
+      "Synergy Abilities en duo",
+      "Mini-jeux variés (Chocobo, Gold Saucer)",
+      "Histoire réinventée du classique"
     ]
   },
   {
@@ -232,23 +232,23 @@
   },
   {
     "id": 12,
-    "title": "Forza Horizon 5",
-    "slug": "forza-horizon-5",
-    "platform": ["PC", "Xbox"],
-    "genre": "Course",
-    "year": 2021,
-    "dev": "Playground Games",
-    "publisher": "Xbox Game Studios",
-    "players": "Solo / Multi",
-    "image": "/images/forza-horizon-5.jpg",
-    "thumb": "/images/forza-horizon-5-thumb.jpg",
-    "description": "La course en monde ouvert la plus belle du monde se déroule au Mexique. Plus de 700 voitures, un monde vivant avec des saisons dynamiques, et une liberté de jeu totale.",
+    "title": "Black Myth: Wukong",
+    "slug": "black-myth-wukong",
+    "platform": ["PC", "PS5"],
+    "genre": "Action RPG",
+    "year": 2024,
+    "dev": "Game Science",
+    "publisher": "Game Science",
+    "players": "Solo",
+    "image": "/images/black-myth-wukong.jpg",
+    "thumb": "/images/black-myth-wukong-thumb.jpg",
+    "description": "Incarnez le Prédestiné et revivez la légende du Roi Singe dans ce spectaculaire Action RPG inspiré de la mythologie chinoise. Affrontez des créatures mythiques avec un système de combat exigeant et des transformations divines.",
     "features": [
-      "Monde ouvert Mexique",
-      "700+ voitures",
-      "Saisons dynamiques",
-      "EventLab créatif",
-      "Cross-play PC/Xbox"
+      "Mythologie chinoise immersive",
+      "Combat exigeant style Souls",
+      "Transformations en créatures",
+      "Visuels Unreal Engine 5",
+      "Boss fights spectaculaires"
     ]
   }
 ]

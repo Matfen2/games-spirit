@@ -252,32 +252,32 @@
   {
     "id": 26,
     "gameId": 9,
-    "user": "FFVeteran",
-    "hours": 65,
+    "user": "CloudStrife_OG",
+    "hours": 95,
     "recommended": true,
-    "text": "Un FF plus mature et sombre. Les combats de Primordiaux sont épiques à couper le souffle. L'histoire de Clive est touchante.",
+    "text": "En tant que fan du FF7 original, Rebirth dépasse toutes mes attentes. Le monde ouvert est immense, le Gold Saucer est magique et les combats sont encore meilleurs que dans Remake.",
     "date": "2026-01-09",
-    "helpful": 19
+    "helpful": 38
   },
   {
     "id": 27,
     "gameId": 9,
-    "user": "JRPGFan",
-    "hours": 50,
-    "recommended": false,
-    "text": "Trop orienté action, pas assez RPG. On perd l'essence de Final Fantasy. Les quêtes annexes sont ennuyeuses et répétitives.",
+    "user": "JRPGHunter",
+    "hours": 70,
+    "recommended": true,
+    "text": "Le meilleur JRPG de 2024. Les Synergy Abilities rendent les combats dynamiques et les persos sont tous attachants. 70h et j'ai pas vu le temps passer.",
     "date": "2026-01-04",
-    "helpful": 16
+    "helpful": 25
   },
   {
     "id": 28,
     "gameId": 9,
-    "user": "EikonSlayer",
-    "hours": 75,
-    "recommended": true,
-    "text": "Les combats entre Primordiaux sont les moments les plus spectaculaires que j'ai vus dans un jeu. Le DLC ajoute du contenu de qualité.",
+    "user": "OpenWorldFatigue",
+    "hours": 30,
+    "recommended": false,
+    "text": "Trop de contenu annexe qui rallonge artificiellement. Les tours Chocobo et les mini-jeux obligatoires cassent le rythme. L'histoire principale est top mais noyée dans le filler.",
     "date": "2025-12-25",
-    "helpful": 10
+    "helpful": 14
   },
   {
     "id": 29,
@@ -332,31 +332,31 @@
   {
     "id": 34,
     "gameId": 12,
-    "user": "SpeedDemon",
-    "hours": 250,
+    "user": "WukongFan",
+    "hours": 65,
     "recommended": true,
-    "text": "Le plus beau jeu de course jamais créé. Le Mexique est magnifique à chaque saison. Le mode EventLab offre des possibilités infinies.",
+    "text": "Un chef-d'œuvre visuel. Les boss sont incroyables et la mythologie chinoise est magnifiquement retranscrite. Game Science a frappé fort pour un premier jeu AAA.",
     "date": "2026-01-08",
-    "helpful": 17
+    "helpful": 42
   },
   {
     "id": 35,
     "gameId": 12,
-    "user": "CarCollector",
-    "hours": 180,
+    "user": "SoulsVeteran",
+    "hours": 45,
     "recommended": true,
-    "text": "700+ voitures, chacune avec sa personnalité. Le son des moteurs est parfait. Le online est un peu chaotique mais fun.",
+    "text": "Le combat est profond et technique. Les transformations ajoutent une couche stratégique géniale. Certains boss sont aussi durs que du FromSoftware.",
     "date": "2026-01-03",
-    "helpful": 12
+    "helpful": 28
   },
   {
     "id": 36,
     "gameId": 12,
-    "user": "SimRacer_Pro",
-    "hours": 30,
+    "user": "CasualPanda",
+    "hours": 15,
     "recommended": false,
-    "text": "Trop arcade pour moi. Si vous cherchez du réalisme, passez votre chemin. Mais visuellement c'est le plus beau jeu de course du marché.",
+    "text": "Trop difficile et pas de mode facile. L'histoire est confuse si on ne connaît pas le Voyage en Occident. Graphiquement sublime par contre.",
     "date": "2025-12-19",
-    "helpful": 8
+    "helpful": 11
   }
 ]
