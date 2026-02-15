@@ -12,7 +12,13 @@
     src: url("./../public/fonts/Stay Pixel DEMO.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: SF Proverbial;
+    src: url("./../public/fonts/SF Proverbial.ttf") format("truetype");
+}
+
 :root {
+  --sf-proverbial: "SF Proverbial", sans-serif;
   --techovier: "Techovier", sans-serif; 
   --stay-pixel: "Stay Pixel", sans-serif;
 }
@@ -40,15 +46,57 @@
 }
 
 /* ══════════════════════════════════════
-   AUTO CAROUSEL — Infinite scroll
+   CAROUSEL — GPU-accelerated
    ══════════════════════════════════════ */
 
+/* ── Horizontal (tablet+) ── */
+
+.carousel-track-left {
+  animation: scroll-left 35s linear infinite;
+  will-change: transform;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.carousel-track-right {
+  animation: scroll-right 40s linear infinite;
+  will-change: transform;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
 @keyframes scroll-left {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(-50%, 0, 0); }
 }
 
 @keyframes scroll-right {
-  0% { transform: translateX(-50%); }
-  100% { transform: translateX(0); }
+  0% { transform: translate3d(-50%, 0, 0); }
+  100% { transform: translate3d(0, 0, 0); }
+}
+
+/* ── Vertical (mobile) ── */
+
+.carousel-track-up {
+  animation: scroll-up 25s linear infinite;
+  will-change: transform;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.carousel-track-down {
+  animation: scroll-down 30s linear infinite;
+  will-change: transform;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+@keyframes scroll-up {
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(0, -50%, 0); }
+}
+
+@keyframes scroll-down {
+  0% { transform: translate3d(0, -50%, 0); }
+  100% { transform: translate3d(0, 0, 0); }
 }

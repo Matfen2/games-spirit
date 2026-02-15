@@ -9,6 +9,7 @@
     "dev": "FromSoftware",
     "publisher": "Bandai Namco",
     "players": "Solo / Co-op",
+    "price": 39.99,
     "image": "/images/elden-ring.jpg",
     "thumb": "/images/elden-ring-thumb.jpg",
     "description": "Plongez dans un monde ouvert dark fantasy colossal, co-créé par Hidetaka Miyazaki et George R.R. Martin. Explorez les Terres Intermédiaires, affrontez des boss légendaires et forgez votre propre destinée dans cette aventure épique qui redéfinit le genre Action RPG.",
@@ -18,7 +19,27 @@
       "Multijoueur coopératif",
       "Création de personnage approfondie",
       "Plus de 100 heures de contenu"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/AKXiKBnzpBQ",
+      "screenshots": [
+        {
+          "src": "/images/elden-ring-screen1.jpg",
+          "title": "Un monde ouvert colossal",
+          "desc": "Les Terres Intermédiaires offrent une liberté d'exploration totale. Chaque horizon cache un donjon, un boss ou un secret à découvrir."
+        },
+        {
+          "src": "/images/elden-ring-screen2.jpg",
+          "title": "Des combats exigeants",
+          "desc": "Chaque ennemi représente un défi unique. Apprenez ses patterns, trouvez ses faiblesses, et savourez la victoire."
+        },
+        {
+          "src": "/images/elden-ring-screen3.jpg",
+          "title": "Créez votre build",
+          "desc": "Des centaines d'armes, sorts et compétences permettent de construire un personnage à votre image."
+        }
+      ]
+    }
   },
   {
     "id": 2,
@@ -30,6 +51,7 @@
     "dev": "CD Projekt Red",
     "publisher": "CD Projekt",
     "players": "Solo",
+    "price": 29.99,
     "image": "/images/cyberpunk-2077.jpg",
     "thumb": "/images/cyberpunk-2077-thumb.jpg",
     "description": "Night City vous attend. Incarnez V, un mercenaire hors-la-loi à la recherche d'un implant unique qui confère l'immortalité. Personnalisez votre cyberware, vos compétences et votre style de jeu dans cette aventure RPG en monde ouvert.",
@@ -39,11 +61,31 @@
       "Personnalisation complète",
       "Arbre de compétences profond",
       "Extension Phantom Liberty"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/8X2kIfS6fb8",
+      "screenshots": [
+        {
+          "src": "/images/cyberpunk-screen1.jpg",
+          "title": "Night City, ville ouverte",
+          "desc": "Une mégalopole verticale vivante avec ses quartiers distincts, ses gangs et ses secrets à chaque coin de rue."
+        },
+        {
+          "src": "/images/cyberpunk-screen2.jpg",
+          "title": "Personnalisation totale",
+          "desc": "Implants cybernétiques, armes modifiées, hacking : chaque approche est viable pour résoudre les missions."
+        },
+        {
+          "src": "/images/cyberpunk-screen3.jpg",
+          "title": "Phantom Liberty",
+          "desc": "L'extension majeure ajoute un nouveau quartier, une histoire d'espionnage et des mécaniques de jeu inédites."
+        }
+      ]
+    }
   },
   {
     "id": 3,
-    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "title": "Zelda: Tears of the Kingdom",
     "slug": "zelda-totk",
     "platform": ["Switch"],
     "genre": "Action-Aventure",
@@ -51,6 +93,7 @@
     "dev": "Nintendo EPD",
     "publisher": "Nintendo",
     "players": "Solo",
+    "price": 59.99,
     "image": "/images/zelda-totk.jpg",
     "thumb": "/images/zelda-totk-thumb.jpg",
     "description": "L'aventure épique de Link continue dans cette suite magistrale de Breath of the Wild. Explorez les cieux d'Hyrule, maîtrisez de nouveaux pouvoirs comme l'Emprise et l'Amalgame, et découvrez les secrets enfouis sous le royaume.",
@@ -60,7 +103,27 @@
       "Construction libre",
       "Donjons et sanctuaires",
       "Physique réaliste"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/uHGShqcAHlQ",
+      "screenshots": [
+        {
+          "src": "/images/zelda-totk-screen1.jpg",
+          "title": "Le pouvoir de l'Emprise",
+          "desc": "Déplacez et assemblez n'importe quel objet du monde pour créer des véhicules, des ponts ou des armes improvisées."
+        },
+        {
+          "src": "/images/zelda-totk-screen2.jpg",
+          "title": "Exploration verticale",
+          "desc": "Du sous-sol aux îles célestes, Hyrule s'explore désormais sur trois couches avec des surprises à chaque altitude."
+        },
+        {
+          "src": "/images/zelda-totk-screen3.jpg",
+          "title": "Créativité sans limites",
+          "desc": "Le moteur physique permet des solutions infinies. Construisez un radeau, un robot de combat ou un avion pour atteindre votre objectif."
+        }
+      ]
+    }
   },
   {
     "id": 4,
@@ -72,6 +135,7 @@
     "dev": "Santa Monica Studio",
     "publisher": "Sony Interactive",
     "players": "Solo",
+    "price": 49.99,
     "image": "/images/god-of-war-ragnarok.jpg",
     "thumb": "/images/god-of-war-ragnarok-thumb.jpg",
     "description": "Kratos et Atreus doivent voyager dans chacun des Neuf Royaumes à la recherche de réponses alors que les forces asgardiennes se préparent à une bataille prophétisée qui mettra fin au monde.",
@@ -81,7 +145,27 @@
       "Narration père-fils",
       "Boss fights épiques",
       "Système d'armure et runas"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/EE-4GvjKcfs",
+      "screenshots": [
+        {
+          "src": "/images/gow-ragnarok-screen1.jpg",
+          "title": "Combat à la hache Léviathan",
+          "desc": "Le système de combat alterne entre la Hache Léviathan glaciale et les Lames du Chaos brûlantes avec des combos dévastateurs."
+        },
+        {
+          "src": "/images/gow-ragnarok-screen2.jpg",
+          "title": "Les Neuf Royaumes",
+          "desc": "Voyagez à travers neuf mondes de la mythologie nordique, chacun avec son ambiance, ses ennemis et ses énigmes."
+        },
+        {
+          "src": "/images/gow-ragnarok-screen3.jpg",
+          "title": "La saga père-fils",
+          "desc": "Kratos et Atreus font face au Ragnarök. Leur relation évolue dans une narration digne des plus grands films."
+        }
+      ]
+    }
   },
   {
     "id": 5,
@@ -93,6 +177,7 @@
     "dev": "Larian Studios",
     "publisher": "Larian Studios",
     "players": "Solo / Co-op 4",
+    "price": 44.99,
     "image": "/images/baldurs-gate-3.jpg",
     "thumb": "/images/baldurs-gate-3-thumb.jpg",
     "description": "Le RPG ultime basé sur les règles de Donjons & Dragons 5e édition. Rassemblez votre groupe, lancez les dés et plongez dans une aventure épique où chaque choix a des conséquences profondes.",
@@ -102,7 +187,27 @@
       "Choix moraux impactants",
       "Plus de 174 heures de cinématiques",
       "12 classes jouables"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/1T22wNvoNiU",
+      "screenshots": [
+        {
+          "src": "/images/bg3-screen1.jpg",
+          "title": "Système D&D complet",
+          "desc": "Les règles de Donjons & Dragons 5e édition fidèlement adaptées. Lancez les dés, utilisez vos compétences et façonnez l'aventure."
+        },
+        {
+          "src": "/images/bg3-screen2.jpg",
+          "title": "Co-op jusqu'à 4 joueurs",
+          "desc": "Jouez en coopération avec vos amis. Chacun contrôle un personnage et peut prendre des décisions indépendantes."
+        },
+        {
+          "src": "/images/bg3-screen3.jpg",
+          "title": "Des choix qui comptent",
+          "desc": "Chaque décision a des conséquences profondes. Les PNJ se souviennent de vos actions et le monde évolue en fonction."
+        }
+      ]
+    }
   },
   {
     "id": 6,
@@ -114,6 +219,7 @@
     "dev": "Bethesda Game Studios",
     "publisher": "Bethesda Softworks",
     "players": "Solo",
+    "price": 34.99,
     "image": "/images/starfield.jpg",
     "thumb": "/images/starfield-thumb.jpg",
     "description": "Explorez la galaxie dans le premier nouvel univers de Bethesda depuis 25 ans. Avec plus de 1000 planètes à découvrir, construisez votre vaisseau, rejoignez des factions et écrivez votre propre histoire spatiale.",
@@ -123,7 +229,27 @@
       "Système de factions",
       "Exploration spatiale",
       "Modding supporté"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/kfYEiTdsyas",
+      "screenshots": [
+        {
+          "src": "/images/starfield-screen1.jpg",
+          "title": "Exploration spatiale",
+          "desc": "Plus de 1000 planètes à explorer avec des biomes variés, des stations spatiales et des anomalies à découvrir."
+        },
+        {
+          "src": "/images/starfield-screen2.jpg",
+          "title": "Construction de vaisseau",
+          "desc": "Concevez votre vaisseau pièce par pièce : cockpit, réacteurs, armement, soutes de stockage. Tout est personnalisable."
+        },
+        {
+          "src": "/images/starfield-screen3.jpg",
+          "title": "Factions et diplomatie",
+          "desc": "Rejoignez différentes factions avec leurs propres quêtes, philosophies et récompenses. Vos alliances façonnent l'histoire."
+        }
+      ]
+    }
   },
   {
     "id": 7,
@@ -135,8 +261,9 @@
     "dev": "Insomniac Games",
     "publisher": "Sony Interactive",
     "players": "Solo",
+    "price": 59.99,
     "image": "/images/marvel-spiderman-2.jpg",
-    "thumb": "/images/spider-man-2-thumb.jpg",
+    "thumb": "/images/marvel-spiderman-2-thumb.jpeg",
     "description": "Peter Parker et Miles Morales unissent leurs forces pour protéger New York contre des menaces nouvelles et redoutables, dont Venom et Kraven le Chasseur.",
     "features": [
       "Deux Spider-Men jouables",
@@ -144,7 +271,27 @@
       "Symbiote Venom",
       "Combat aérien amélioré",
       "Web Wings pour planer"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/nq1M_Wc4FIc",
+      "screenshots": [
+        {
+          "src": "/images/spiderman2-screen1.jpg",
+          "title": "Deux Spider-Men",
+          "desc": "Alternez entre Peter Parker et Miles Morales, chacun avec des pouvoirs uniques et un style de combat distinct."
+        },
+        {
+          "src": "/images/spiderman2-screen2.jpg",
+          "title": "Web Wings & traversal",
+          "desc": "Planez au-dessus de New York avec les Web Wings, enchaînez les balancers et sprintez sur les murs à toute vitesse."
+        },
+        {
+          "src": "/images/spiderman2-screen3.jpg",
+          "title": "Le symbiote Venom",
+          "desc": "Le costume noir confère des pouvoirs dévastateurs mais à quel prix ? La menace Venom plane sur toute l'aventure."
+        }
+      ]
+    }
   },
   {
     "id": 8,
@@ -156,6 +303,7 @@
     "dev": "Team Cherry",
     "publisher": "Team Cherry",
     "players": "Solo",
+    "price": 24.99,
     "image": "/images/hollow-knight-silksong.jpg",
     "thumb": "/images/hollow-knight-silksong-thumb.jpg",
     "description": "Incarnez Hornet dans un tout nouveau royaume hanté par la soie et les chants. Découvrez de nouvelles mécaniques de combat acrobatiques dans cette suite très attendue du célèbre Hollow Knight.",
@@ -165,7 +313,27 @@
       "Mouvement acrobatique",
       "Monde interconnecté",
       "Boss fights intenses"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/pFAknD_9U7c",
+      "screenshots": [
+        {
+          "src": "/images/silksong-screen1.jpg",
+          "title": "Hornet, nouvelle héroïne",
+          "desc": "Plus rapide et plus acrobatique que le Chevalier, Hornet utilise son aiguille et des outils de soie pour combattre."
+        },
+        {
+          "src": "/images/silksong-screen2.jpg",
+          "title": "Un nouveau royaume",
+          "desc": "Explorez Pharloom, un territoire hanté par la soie et les chants, avec ses propres secrets et ses habitants."
+        },
+        {
+          "src": "/images/silksong-screen3.jpg",
+          "title": "Boss fights intenses",
+          "desc": "Plus de 150 ennemis et des boss redoutables qui mettront vos réflexes à l'épreuve dans des combats mémorables."
+        }
+      ]
+    }
   },
   {
     "id": 9,
@@ -177,6 +345,7 @@
     "dev": "Square Enix",
     "publisher": "Square Enix",
     "players": "Solo",
+    "price": 49.99,
     "image": "/images/final-fantasy-7-rebirth.jpg",
     "thumb": "/images/final-fantasy-7-rebirth-thumb.jpg",
     "description": "Cloud et ses compagnons quittent Midgar pour un voyage épique à travers un monde ouvert. Ce deuxième volet de la trilogie remake repousse les limites avec un système de combat hybride, des Synergy Abilities et une histoire qui bouleverse les fans.",
@@ -186,7 +355,27 @@
       "Synergy Abilities en duo",
       "Mini-jeux variés (Chocobo, Gold Saucer)",
       "Histoire réinventée du classique"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/A39PBKEh67w",
+      "screenshots": [
+        {
+          "src": "/images/ff7r-screen1.jpg",
+          "title": "Au-delà de Midgar",
+          "desc": "Quittez Midgar et explorez un monde ouvert immense avec des chocobos, des villages et des donjons à découvrir."
+        },
+        {
+          "src": "/images/ff7r-screen2.jpg",
+          "title": "Combat hybride ATB/Action",
+          "desc": "Le système Synergy Abilities permet des attaques combinées entre personnages pour des combos spectaculaires."
+        },
+        {
+          "src": "/images/ff7r-screen3.jpg",
+          "title": "Le Gold Saucer",
+          "desc": "Le parc d'attractions légendaire revient avec des dizaines de mini-jeux, des courses de chocobos et des spectacles."
+        }
+      ]
+    }
   },
   {
     "id": 10,
@@ -198,6 +387,7 @@
     "dev": "MercurySteam",
     "publisher": "Nintendo",
     "players": "Solo",
+    "price": 39.99,
     "image": "/images/metroid-dread.jpg",
     "thumb": "/images/metroid-dread-thumb.jpg",
     "description": "Samus Aran est traquée par les robots E.M.M.I. sur la planète ZDR. Explorez, combattez et survivez dans ce Metroid 2D qui conclut l'arc narratif débuté il y a 35 ans.",
@@ -207,7 +397,27 @@
       "Capacités Aeion",
       "Exploration non-linéaire",
       "Boss fights mémorables"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/8NjCICl7dDo",
+      "screenshots": [
+        {
+          "src": "/images/metroid-screen1.jpg",
+          "title": "Les E.M.M.I. terrifiants",
+          "desc": "Des robots quasi invincibles traquent Samus dans des zones spécifiques. Furtivité et timing sont essentiels pour survivre."
+        },
+        {
+          "src": "/images/metroid-screen2.jpg",
+          "title": "Contre-attaques précises",
+          "desc": "Le parry est au cœur du gameplay. Un timing parfait transforme une situation désespérée en victoire éclatante."
+        },
+        {
+          "src": "/images/metroid-screen3.jpg",
+          "title": "Exploration Metroidvania",
+          "desc": "Débloquez de nouvelles capacités pour accéder à des zones auparavant inaccessibles dans un level design interconnecté."
+        }
+      ]
+    }
   },
   {
     "id": 11,
@@ -219,6 +429,7 @@
     "dev": "Supergiant Games",
     "publisher": "Supergiant Games",
     "players": "Solo",
+    "price": 19.99,
     "image": "/images/hades-2.jpg",
     "thumb": "/images/hades-2-thumb.jpg",
     "description": "Incarnez Melinoë, princesse des Enfers, et combattez les forces du Titan Chronos dans ce roguelike divin. Nouvelle magie, nouveaux alliés olympiens et mécaniques de jeu inédites.",
@@ -228,7 +439,27 @@
       "Biomes variés",
       "Narration évolutive",
       "Armes et aspects multiples"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/gJApKMgn9XI",
+      "screenshots": [
+        {
+          "src": "/images/hades2-screen1.jpg",
+          "title": "Melinoë, princesse des Enfers",
+          "desc": "La sœur de Zagreus maîtrise la magie et les armes. Chaque run débloque de nouvelles capacités et révèle l'histoire."
+        },
+        {
+          "src": "/images/hades2-screen2.jpg",
+          "title": "Système de magie",
+          "desc": "Contrairement à Hades 1, la magie joue un rôle central avec des incantations qui modifient le gameplay en profondeur."
+        },
+        {
+          "src": "/images/hades2-screen3.jpg",
+          "title": "Narration évolutive",
+          "desc": "Chaque mort fait avancer l'histoire. Les dialogues changent, les relations évoluent, et le monde réagit à vos progrès."
+        }
+      ]
+    }
   },
   {
     "id": 12,
@@ -240,6 +471,7 @@
     "dev": "Game Science",
     "publisher": "Game Science",
     "players": "Solo",
+    "price": 39.99,
     "image": "/images/black-myth-wukong.jpg",
     "thumb": "/images/black-myth-wukong-thumb.jpg",
     "description": "Incarnez le Prédestiné et revivez la légende du Roi Singe dans ce spectaculaire Action RPG inspiré de la mythologie chinoise. Affrontez des créatures mythiques avec un système de combat exigeant et des transformations divines.",
@@ -249,6 +481,26 @@
       "Transformations en créatures",
       "Visuels Unreal Engine 5",
       "Boss fights spectaculaires"
-    ]
+    ],
+    "media": {
+      "video": "https://www.youtube.com/embed/Qb-mEBBsALc",
+      "screenshots": [
+        {
+          "src": "/images/wukong-screen1.jpg",
+          "title": "Mythologie chinoise",
+          "desc": "Basé sur le Voyage en Occident, le jeu retranscrit fidèlement les créatures et légendes de la mythologie chinoise."
+        },
+        {
+          "src": "/images/wukong-screen2.jpg",
+          "title": "Transformations divines",
+          "desc": "Le Prédestiné peut se transformer en différentes créatures et utiliser les pouvoirs de ses ennemis vaincus."
+        },
+        {
+          "src": "/images/wukong-screen3.jpg",
+          "title": "Unreal Engine 5",
+          "desc": "Un des plus beaux jeux jamais créés. Les environnements, les effets de lumière et les animations sont à couper le souffle."
+        }
+      ]
+    }
   }
 ]
