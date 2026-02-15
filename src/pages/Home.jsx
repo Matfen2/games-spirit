@@ -2,8 +2,6 @@ import { useNavigate } from "react-router-dom";
 import { motion } from "motion/react";
 import games from "../data/games.json";
 import Description from "../components/ui/Description";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
 
 const CarouselCard = ({ game, onClick }) => (
   <div
@@ -75,7 +73,6 @@ const Home = () => {
           "radial-gradient(circle, rgba(139,92,246,0.12) 0%, transparent 70%)",
       }}
     >
-    <Header />
       <Description
         title="Explorez "
         subtitle="l'univers gaming"
@@ -195,7 +192,6 @@ const Home = () => {
           Voir les jeux
         </motion.button>
       </motion.div>
-      <Footer />
     </section>
   );
 };
